@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/intake/intake-xarray/commit/719a7c84b58ec6783b07e648fbfaf988ea4c453a",
       "git:hexsha": "719a7c84b58ec6783b07e648fbfaf988ea4c453a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.0"
     },
     {
