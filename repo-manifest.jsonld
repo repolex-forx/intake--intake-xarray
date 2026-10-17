@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/intake/intake-xarray/commit/719a7c84b58ec6783b07e648fbfaf988ea4c453a",
       "git:hexsha": "719a7c84b58ec6783b07e648fbfaf988ea4c453a",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.0.0",
+      "repolex:parsedAt": "2026-10-17T03:41:58.325355+00:00"
     },
     {
       "@id": "https://repolex.ai/r/intake/intake-xarray/commit/724bd3c93b5377e1423846a8a6bbfd5f0170de7f",
